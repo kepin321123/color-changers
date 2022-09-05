@@ -19,7 +19,7 @@ function changecolor(){
     
 
     console.log(warna)
-    color.textContent = warna
+    color.textContent = warna 
     document.body.style.backgroundColor = warna
     console.log(randomnumber())
 
